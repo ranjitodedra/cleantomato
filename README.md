@@ -29,12 +29,12 @@ Before contributing or adding a new feature, Please make sure you have already i
 
 2. Clone the project by running
 ```
-git clone https://github.com/<your-username>/trendit.git
+git clone https://github.com/<your-username>/cleantomato.git
 ```
 
 3. Navigate to the project directory 
 ```
-cd trendit
+cd cleantomato
 ```
 
 4. Install dependencies with 
