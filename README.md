@@ -17,7 +17,8 @@ Overall, a plant disease detector photo app can be a useful tool for gardeners a
 Before contributing or adding a new feature, Please make sure you have already installed the following tools:
 
 - [Git](https://git-scm.com/downloads)
-- [NodeJs](https://nodejs.org/en/download/)
+- [Python](https://www.python.org/downloads/)
+- [DataSet](https://www.kaggle.com/datasets/arjuntejaswi/plant-village)
 
 ## Installation Steps
 
