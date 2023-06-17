@@ -18,7 +18,6 @@ Before contributing or adding a new feature, Please make sure you have already i
 
 - [Git](https://git-scm.com/downloads)
 - [Python](https://www.python.org/downloads/)
-- [DataSet](https://www.kaggle.com/datasets/arjuntejaswi/plant-village)
 
 ## Installation Steps
 
