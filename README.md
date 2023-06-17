@@ -22,30 +22,53 @@ Before contributing or adding a new feature, Please make sure you have already i
 
 ## Installation Steps
 
-1. Fork the project
-<p align="center">
-  <img src="https://github.com/clubgamma/Trendit/blob/main/client/src/Assets/Images/Doc/img.png" alt="img">
-</p>
+1. **Download Dataset**
+from here --> [Dataset](https://www.kaggle.com/datasets/noulam/tomato)
+2. **download test.ipynb file**
+3. **maintain folder structure at like this**
+```
+Main/
+├── train/
+│   ├── Tomato___Bacterial_spot
+│   ├── Tomato__Early_blight
+│   ├── ...
+│   └── Tomato___Tomato_Yellow_Leaf_Curl_Virus
+├── valid/
+│   ├── Tomato___Bacterial_spot
+│   ├── Tomato__Early_blight
+│   ├── ...
+│   └── Tomato___Tomato_Yellow_Leaf_Curl_Virus
+├── test.ipynb
+```
+5. **Create a Conda environment:**
+   ```
+   conda create --name myenv
+   ```
 
-2. Clone the project by running
-```
-git clone https://github.com/<your-username>/cleantomato.git
-```
+6. **Activate the environment:**
+   - For Windows:
+     ```
+     conda activate myenv
+     ```
+   - For macOS/Linux:
+     ```
+     source activate myenv
+     ```
 
-3. Navigate to the project directory 
-```
-cd cleantomato
-```
+7. **Install dependencies:**
+   ```
+   conda install <package_name>
+   ```
 
-4. Install dependencies with 
-```
-npm i
-```
+8. **Install packages using pip (if not available in conda):**
+   ```
+   pip install <package_name>
+   ```
 
-5. Run 
-```
-npm start
-```
+9. **Run Jupyter Notebook:**
+   ```
+   jupyter notebook
+   ```
 
 ## Contributors
 
