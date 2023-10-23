@@ -1,8 +1,4 @@
-<h1 align="center">Tomato Disease Finder</h1>
-
-<p align="center">
-  <img src="https://media4.giphy.com/media/a0N6ZmPmzGIPm/giphy.gif?cid=ecf05e47uygzutc57k7q8glhwc95xcjtvdsvk5jpvitdvwre&rid=giphy.gif&ct=g" alt="tomato  image">
-</p>
+# Tomato Disease Finder
 
 A plant disease detector photo app is a mobile application that allows users to identify and diagnose plant diseases by taking a photograph of the affected plant. The app uses artificial intelligence and machine learning algorithms to analyze the photograph and provide a diagnosis based on the visual characteristics of the plant disease.
 
